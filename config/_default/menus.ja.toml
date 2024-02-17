@@ -1,0 +1,78 @@
+# main menu
+[[main]]
+name = "ホーム"
+url = "/"
+weight = 1
+hasChildren = true
+
+[[main]]
+parent = "ホーム"
+name = "ゲームについて"
+url = "about-game/"
+
+[[main]]
+parent = "ホーム"
+name = "目指すこと"
+url = "mission/"
+
+[[main]]
+parent = "ホーム"
+name = "お知らせ"
+url = "news/"
+
+[[main]]
+name = "学べること"
+url = "/"
+weight = 2
+
+[[main]]
+name = "Elements"
+url = "elements/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Pages"
+hasChildren = true
+
+[[main]]
+parent = "Pages"
+name = "Blog"
+url = "blog/"
+
+[[main]]
+parent = "Pages"
+name = "Contact"
+url = "contact/"
+
+[[main]]
+parent = "Pages"
+name = "Authors"
+url = "authors/"
+
+[[main]]
+parent = "Pages"
+name = "Categories"
+url = "categories/"
+
+[[main]]
+parent = "Pages"
+name = "404 Page"
+url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3

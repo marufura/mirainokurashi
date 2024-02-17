@@ -26,7 +26,7 @@ weight = 3
 [[main]]
 parent = "ホーム"
 name = "お知らせ"
-url = "blog/"
+url = "news/"
 weight = 4
 
 
@@ -70,7 +70,7 @@ hasChildren = true
 [[main]]
 parent = "その他"
 name = "利用事例"
-url = "case-studies/"
+url = "blog/"
 weight = 1
 
 [[main]]
@@ -100,7 +100,7 @@ weight = 5
 [[main]]
 parent = "その他"
 name = "作った人"
-url = "authors/"
+url = "creator/"
 weight = 6
 
 

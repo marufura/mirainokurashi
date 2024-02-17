@@ -1,5 +1,5 @@
 ---
-title: "利用事例"
+title: "作った人"
 # meta title
 meta_title: ""
 # meta description

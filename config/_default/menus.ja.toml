@@ -7,58 +7,103 @@ hasChildren = true
 
 [[main]]
 parent = "ホーム"
+name = "ミライノクラシ"
+url = "/"
+weight = 1
+
+[[main]]
+parent = "ホーム"
 name = "ゲームについて"
 url = "about-game/"
+weight = 2
 
 [[main]]
 parent = "ホーム"
 name = "目指すこと"
 url = "mission/"
+weight = 3
 
 [[main]]
 parent = "ホーム"
 name = "お知らせ"
-url = "news/"
+url = "blog/"
+weight = 4
+
+
 
 [[main]]
 name = "学べること"
-url = "/"
+url = "learn/"
 weight = 2
 
-[[main]]
-name = "Elements"
-url = "elements/"
-weight = 3
+
+
 
 [[main]]
-weight = 4
-name = "Pages"
+name = "遊び方"
+weight = 3
 hasChildren = true
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
+parent = "遊び方"
+name = "アイスブレイクルール"
+url = "icebreak-rules/"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "contact/"
+parent = "遊び方"
+name = "まちづくりルール"
+url = "city-building-rules/"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
+parent = "遊び方"
+name = "ビジネスルール"
+url = "business-rules/"
+
+
+
+
+[[main]]
+weight = 4
+name = "その他"
+hasChildren = true
+
+[[main]]
+parent = "その他"
+name = "利用事例"
+url = "case-studies/"
+weight = 1
+
+[[main]]
+parent = "その他"
+name = "よくある質問"
+url = "faq/"
+weight = 2
+
+[[main]]
+parent = "その他"
+name = "ご購入"
+url = "purchase/"
+weight = 3
+
+[[main]]
+parent = "その他"
+name = "印刷データ"
+url = "print-data/"
+weight = 4
+
+[[main]]
+parent = "その他"
+name = "開発ラボ"
+url = "development-lab/"
+weight = 5
+
+[[main]]
+parent = "その他"
+name = "作った人"
 url = "authors/"
+weight = 6
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
 
 
 # footer menu

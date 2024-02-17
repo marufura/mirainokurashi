@@ -3,10 +3,3 @@ languageName = "Ja"
 languageCode = "ja-jp"
 contentDir = "content/japanese"
 weight = 1
-
-[en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 2
-

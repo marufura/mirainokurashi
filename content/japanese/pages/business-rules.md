@@ -8,232 +8,78 @@ description: "This is meta description"
 draft: false
 ---
 
-{{< toc >}}
+## %%{bg:#7886BB}相反する想いから合意形成を図ろう！ビジネスルール%%
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+#### こんな場面で…
+- 学生インターンのグループワークとして
+- 価値創造やチームワークの研修として
 
-# Heading 1
+#### このルールの概要
+### 「困りごとに共感して解決方法を探り、新たな価値を生み出す」
 
-## Heading 2
+##### ストーリー
+あなたは未来野団地の住民です。手札に持っている住民は同じ住棟に住んでいます。
+団地には多くのミッション（課題）があります。みなさんは住棟の代表として、限られた予算で団地全体の幸せと住棟の住民の幸せの両方の幸せを増やしながらミッションをクリアしましょう。
 
-### Heading 3
+![w:550](./images/〜〜〜〜.png)
 
-#### Heading 4
+##### 用意するもの
+手札
+- 住民カード×4枚
+- コインクリップ×2枚
 
-##### Heading 5
 
-###### Heading 6
+![w:550](./images/〜〜〜〜.png)
 
-<hr>
+①ビジョンカードを10枚表にして並べて、自分たちが目指したい団地の将来像をプレイヤーが多数決で1枚選びます。そのビジョンが、グループ（団地）が目指す団地の将来像になります。
 
-### Emphasis
+![w:550](./images/〜〜〜〜.png)
 
-The emphasis, aka italics, with _asterisks_ or _underscores_.
+②
+じゃんけんで勝ったプレイヤーが親プレイヤーとなり、山札からミッションカードを1枚表にします。
+ 
+![w:550](./images/〜〜〜〜.png)
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+③
+プレイヤー全員で、手札の住民カードと照らし合わせて自分の手札の住民が幸せになるか、①で示したビジョンカードと照らし合わせて団地全体が幸せになるかどうか、そのミッションを自分の手札のコインクリップを使って解決するべきかを考えます。
 
-The combined emphasis with **asterisks and _underscores_**.
+![w:550](./images/〜〜〜〜.png)
 
-Strike through uses two tildes. ~~Scratch this.~~
+④
+「せーの」の掛け声でコインクリップを場に出します。
+必要コインに達したらミッションは達成、達しなかったらミッションは達成ならずです。
 
-<hr>
+![w:550](./images/〜〜〜〜.png)
 
-### Button
+⑤
+ミッションが達成したら、幸せチップを配布します。
+親プレイヤーは2枚もらいます。
+ミッションカードに書かれたビジョンと手札の住民カードに書かれたビジョンが一致している場合、幸せチップをもらいます。必要コインより多くのコインクリップが場に出たら、溢れた分だけ幸せポイントに上乗せされます。
 
-{{< button label="Button" link="/" style="solid" >}}
+![w:550](./images/〜〜〜〜.png)
 
-<hr>
+⑥
+団地の幸せポイントを振り返りシートに記録します。
 
-### Link
+![w:550](./images/〜〜〜〜.png)
+ 
+⑦
+住民の引越しを行います。
+手札の住民カードから、任意で何枚でも山札の住民カードと入れ替えます。
 
-[I'm an inline-style link](https://www.google.com)
+![w:550](./images/〜〜〜〜.png)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+⑧
+時計回りで親プレイヤーを交代し、②〜⑦を1周するまで繰り返します。
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+![w:550](./images/〜〜〜〜.png)
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+⑨
+幸せポイントを集計します。
+振り返りシートを確認して、①で示したビジョンカードに書かれた2つのビジョンを両方2ポイント獲得していたらクリア。
+その上で、幸せポイントを一番多く獲得しているプレイヤーが勝利となります。
+ただし、幸せポイントの最多と最少の差が10枚以上ついていたら全員ゲームオーバーです。
+ 
+振り返りシートを確認して、団地として獲得した6つのビジョンの幸せポイントの合計を記録します。他のグループと比較して、一番多く獲得したグループが勝利となります。
 
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
-<hr>
-
-### Notice
-
-{{< notice "note" >}}
-This is a simple note.
-{{< /notice >}}
-
-{{< notice "tip" >}}
-This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-This is a simple info.
-{{< /notice >}}
-
-{{< notice "warning" >}}
-This is a simple warning.
-{{< /notice >}}
-
-<hr>
-
-### Tab
-
-{{< tabs >}}
-{{< tab "Tab 1" >}}
-
-#### Hey There, I am a tab
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 2" >}}
-
-#### I wanna talk about the assassination attempt
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 3" >}}
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-
-{{< /tab >}}
-{{< /tabs >}}
-
-<hr>
-
-### Accordions
-
-{{< accordion "Why should you need to do this?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "How can I adjust Horizontal centering" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "Should you use Negative margin?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-<hr>
-
-### Code and Syntax Highlighting
-
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-### Blockquote
-
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
-
-<hr>
-
-### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-<hr>
-
-### Image
-
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-
-<hr>
-
-### Gallery
-
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Slider
-
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Youtube video
-
-{{< youtube ResipmZmpDU >}}
-
-<hr>
-
-### Custom video
-
-{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+{{< button label="資料のダウンロードはこちら →" link="/" style="solid" >}}

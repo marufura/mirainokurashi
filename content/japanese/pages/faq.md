@@ -1,5 +1,5 @@
 ---
-title: "よくある質問"
+title: "よくあるご質問"
 # meta title
 meta_title: ""
 # meta description
@@ -8,232 +8,95 @@ description: "This is meta description"
 draft: false
 ---
 
-{{< toc >}}
+### ルール・遊び方について
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+{{< accordion "対象年齢は？" >}}
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<hr>
-
-### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strike through uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-### Button
-
-{{< button label="Button" link="/" style="solid" >}}
-
-<hr>
-
-### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
-<hr>
-
-### Notice
-
-{{< notice "note" >}}
-This is a simple note.
-{{< /notice >}}
-
-{{< notice "tip" >}}
-This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-This is a simple info.
-{{< /notice >}}
-
-{{< notice "warning" >}}
-This is a simple warning.
-{{< /notice >}}
-
-<hr>
-
-### Tab
-
-{{< tabs >}}
-{{< tab "Tab 1" >}}
-
-#### Hey There, I am a tab
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 2" >}}
-
-#### I wanna talk about the assassination attempt
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 3" >}}
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-
-{{< /tab >}}
-{{< /tabs >}}
-
-<hr>
-
-### Accordions
-
-{{< accordion "Why should you need to do this?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
+- ルールによって対象年齢は異なります。
+- アイスブレイクルールは12歳（中学生）以上、まちづくりルールは15歳（高校生）以上、ビジネスルールは18歳（大学生）以上を推奨しています。
+- なお、対象年齢に合わせたルールを使用するのではなく、目的に合わせたルールを選択していただき、丁寧にルール説明をするなどして使用していただくことを推奨します。
 
 {{< /accordion >}}
 
-{{< accordion "How can I adjust Horizontal centering" >}}
+{{< accordion "プレイ時間は？" >}}
 
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "Should you use Negative margin?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
+- ルールによってプレイ時間は異なります。
+- アイスブレイクルールは約20分、まちづくりルールは約120分、ビジネスルールは約90分を想定しています。
 
 {{< /accordion >}}
 
-<hr>
+{{< accordion "お手伝いができる住民は？" >}}
 
-### Code and Syntax Highlighting
+- まちづくりルールとビジネスルールでは、親プレイヤーのプレゼンに対してそれ以外の子プレイヤーが手札の住民カードの住民の力を使ってミッション達成のためにお手伝いをします。
+- ビジョンカードに書かれたビジョンが書かれていない住民カードも含めて、手札のすべての住民カードの住民がお手伝いできます。
 
-This is an `Inline code` sample.
+{{< /accordion >}}
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+{{< accordion "ミッションが達成した際に幸せポイントをもらえる住民は？" >}}
 
-```python
-s = "Python syntax highlighting"
-print s
-```
+- ミッションが達成した際に幸せポイントがもらえる住民は、お手伝いをして場に出した住民も含めた手札の住民が対象となります。
 
-<hr>
+{{< /accordion >}}
 
-### Blockquote
+{{< accordion "ルールをアレンジしてもいい？" >}}
 
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
+- カードの枚数や〜〜〜など、目的に合わせてルールをアレンジしても構いません。
+- なお、オリジナルのルールの原型を留めないほどのアレンジはご遠慮ください。
+- ルールのブラッシュアップの参考とするため、アレンジした際にはゲーム終了後に、目的・アレンジ・感想などをお問い合わせフォームよりご連絡いただけますと幸いです。
 
-<hr>
+{{< /accordion >}}
 
-### Tables
+{{< accordion "オリジナルのカードを作りたい！" >}}
 
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
+- 白紙住民カードと白紙ミッションカードの[印刷データ](https://~~~)をご用意しています。名刺用紙（55mm×91mm）に印刷してご活用ください。
+- ルールのブラッシュアップの参考とするため、オリジナルのミッションを設けた際にはゲーム終了後に、ミッション・感想などをお問い合わせフォームよりご連絡いただけますと幸いです。
 
-<hr>
+{{< /accordion >}}
 
-### Image
+{{< accordion "参加者の感想を知りたい！" >}}
 
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+- 参加者の感想は[こちら](https://〜〜)をご覧ください。
 
-<hr>
+{{< /accordion >}}
 
-### Gallery
 
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+### 進行・ワークショップについて
 
-<hr>
+{{< accordion "進行役のコツは？" >}}
 
-### Slider
+- ファシリテーション用の解説動画を制作中です。
+- [遊び方動画](https://)や[解説スライド](https://)をご覧ください。
+- 加えて、ミッションカード〜〜〜
+- 事前にプレイしておくことがおすすめです。
 
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< /accordion >}}
 
-<hr>
+{{< accordion "手引き書はありますか？" >}}
 
-### Youtube video
+- ファシリテーション用の解説動画を制作中です。
+- [解説スライド](https://〜〜)をご覧ください。
+- ルールや進行についてご不明点がある場合は、[お問い合わせフォーム](https://)からご連絡ください。
 
-{{< youtube ResipmZmpDU >}}
+{{< /accordion >}}
 
-<hr>
+{{< accordion "ワークショップを依頼したい！" >}}
 
-### Custom video
+- できるかぎり協力いたしますので、[お問い合わせフォーム](https://)からご連絡ください。
 
-{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+{{< /accordion >}}
+
+{{< accordion "進行役の感想を知りたい！" >}}
+
+- 進行役の感想は[こちら](https://〜〜)をご覧ください。
+
+{{< /accordion >}}
+
+
+### ご購入について
+
+{{< accordion "ゲームを購入したい！" >}}
+
+- 現在、一般販売はしておりません。ゲームをご希望の方は[お問い合わせフォーム](https://)よりご連絡ください。個別に対応させていただきます。
+
+{{< /accordion >}}
+

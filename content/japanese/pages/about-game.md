@@ -7,6 +7,9 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
+# Banner
+![image](/images/what-to-learn-1.png)
+
 
 #### ゲームについて -About
 ### 限られた予算で自分の幸せとみんなの幸せを増やそう

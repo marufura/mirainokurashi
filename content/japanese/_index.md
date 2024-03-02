@@ -1,53 +1,36 @@
 ---
 # Banner
 banner:
-  title: "アムステルダム"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+  
+  image: "/images/index-banner.png"
+ 
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+  - title: "限られた予算で自分の幸せとみんなの幸せを増やそう"
+    image: "/images/about-game-tentative.png"
+    content: "『ミライノクラシ』は住民による手助けと限られた予算で、個人の幸せと街の幸せを増やすことを目指してアイデアを出すカードゲームです。チームとして「街の幸福度」を目指しながら、かつプレイヤー個人として、「個人の幸せポイント」を多くゲットした人が勝利となります。街の住民になりきるロールプレイング形式で暮らしに関するアイデアを出すことを通じて、自分が暮らすまちに関心を持ちながら、どのように幸せを実現させていくか模索するチームワークが養われます。所要時間や対象年齢が異なる3つのルールを用意しています。目的に合わせてご活用ください。"
     button:
       enable: true
-      label: "Get Started Now"
+      label: "遊び方はこちら"
+      link: "#"
+
+  - title: "「街と人」の想いに向き合う「きっかけ」を作りたい"
+    image: "/images/vision-tentative.png"
+    content: "『ミライノクラシ』は街や住民が抱える課題を解決するアイデアを出すゲームです。自分とは異なる属性の人の想いを考え、〜〜〜このゲームを遊ぶことによって突然、街や人に対する考えが芽生えることはなかなか難しいです。しかしその土壌を培う、機運を高めるようなことはできると考えています。『ミライノクラシ』はそんな「きっかけ」をつくるお手伝いをするゲームでありたいと考えています。"
+    button:
+      enable: true
+      label: "つくった人はこちら"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "お知らせ"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "お知らせをご覧ください。"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**2024.12.12** [世田谷に参加しました](https://www.google.com)"
+      - "**2024.12.12** [世田谷に参加しました](https://www.google.com)"
     button:
-      enable: false
-      label: ""
+      enable: true
+      label: "過去のお知らせをみる"
       link: ""
 ---

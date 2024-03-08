@@ -56,5 +56,5 @@ features:
     button:
       enable: true
       label: "過去のお知らせをみる"
-      link: ""
+      link: "/news"
 ---    

@@ -7,27 +7,21 @@ hasChildren = true
 
 [[main]]
 parent = "ホーム"
-name = "ミライノクラシ"
-url = "/"
-weight = 1
-
-[[main]]
-parent = "ホーム"
 name = "ゲームについて"
 url = "about-game/"
-weight = 2
+weight = 1
 
 [[main]]
 parent = "ホーム"
 name = "目指すこと"
 url = "mission/"
-weight = 3
+weight = 2
 
 [[main]]
 parent = "ホーム"
 name = "お知らせ"
 url = "news/"
-weight = 4
+weight = 3
 
 
 
@@ -48,17 +42,19 @@ hasChildren = true
 parent = "遊び方"
 name = "アイスブレイクルール"
 url = "icebreak-rules/"
+weight = 1
 
 [[main]]
 parent = "遊び方"
 name = "まちづくりルール"
 url = "city-building-rules/"
+weight = 2
 
 [[main]]
 parent = "遊び方"
 name = "ビジネスルール"
 url = "business-rules/"
-
+weight = 3
 
 
 
@@ -75,7 +71,7 @@ weight = 1
 
 [[main]]
 parent = "その他"
-name = "よくある質問"
+name = "よくあるご質問"
 url = "faq/"
 weight = 2
 
@@ -108,16 +104,16 @@ weight = 6
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "トップ"
+url = "/"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "elements/"
+name = "制作者について"
+url = "creator/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
+name = "プライバシーポリシー"
 url = "privacy-policy/"
 weight = 3

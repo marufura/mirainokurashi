@@ -1,13 +1,15 @@
 ---
-title: "111"
+title: "NICT主催イベント"
 meta_title: ""
 description: "this is meta description"
-# date: 2022-04-04T05:00:00Z
+date: 2024-03-25T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-# author: "John Doe"
-# tags: ["nextjs", "tailwind"]
+categories: ["アイスブレイクルール", "研修"]
+# author: "Sam Wilson"
+# tags: ["technology", "tailwind"]
 draft: false
 ---
 
-テストで書いてます
+おおおお
+
+

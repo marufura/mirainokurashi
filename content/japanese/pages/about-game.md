@@ -16,8 +16,9 @@ draft: false
 街の住民になりきるロールプレイング形式で暮らしに関するアイデアを出すことを通じて、自分が暮らすまちに関心を持ちながら、どのように幸せを実現させていくか模索するチームワークが養われます。  
 所要時間や対象年齢が異なる3つのルールを用意しています。目的に合わせてご活用ください。
 
-{{< button label="遊び方はこちら →" link="/rules" style="solid" >}}
-
+{{< button label="アイスブレイクルール →" link="/icebreak-rules" style="solid" >}}
+{{< button label="まちづくりルール →" link="/city-building-rules" style="solid" >}}
+{{< button label="ビジネスルール →" link="/business-rules" style="solid" >}}
 <hr>
 
 #### 遊んでいる様子 -Gallery

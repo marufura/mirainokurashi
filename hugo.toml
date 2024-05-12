@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://mirainokurashi.netlify.app/"
+baseURL = "https://www.mirainokurashi-game.com/"
 # Title of your website (required).
 title = "ミライノクラシ"
 # Your theme name

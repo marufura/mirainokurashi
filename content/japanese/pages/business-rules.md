@@ -7,7 +7,7 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
-###  <div class="text-purple-500" >相反する想いから合意形成を図ろう！ビジネスルール<div/>
+###  <div class="text-purple-400" >相反する想いから合意形成を図ろう！ビジネスルール<div/>
 
 #### こんな場面で…
 - 学生インターンのグループワークとして

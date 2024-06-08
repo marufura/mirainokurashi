@@ -10,7 +10,8 @@ draft: false
 
 #### 制作者　-About us
 
-![w:100](./images/ballast-logo-blue.png)
+<img src="/images/ballast-logo-blue.png" width="30%">  
+
 はじめまして。ballast design.です。  
 私は大学・大学院で建築やまちづくりを学んできました。授業やプロジェクトを通じて、一般の市民は「街や建物は専門家が作るもの」と感じていることがわかりました。しかし、私たち一人ひとりが街に関わっていかないと持続的な暮らしは手に入れることができません。手軽にまちづくりについて考えるきっかけになればと思い、ゲームの開発をはじました。
 活動を通じてたくさんアドバイスをいただく中で、「まちづくりに限らない社会課題の解決につながる」や「社会人研修やグループワークとしても使えそう」との声をいただきました。  
@@ -24,8 +25,8 @@ draft: false
 
 #### 実績　-Achieve
 
-第2回Board Game Japanカップ　入賞受賞  
-![w:100](./images/BGJ2024-RGB.jpg)
+[第2回Board Game Japanカップ　入賞受賞](https://boardgamejapan.org/cup/#result)  
+<img src="/images/BGJ2024-RGB.jpg" width="50%">
 
 #### 関連記事　-Article
 

@@ -8,7 +8,7 @@ description: "This is meta description"
 draft: false
 ---
 #### ゲームについて -About
-![image](/images/insert-image_what-to-learn-1.png)
+![image](/images/insert-image_what-to-learn-1-min.png)
 ### 限られた予算で自分の幸せとみんなの幸せを増やそう
 
 『ミライノクラシ』は住民による手助けと限られた予算で、個人の幸せと街の幸せを増やすことを目指してアイデアを出すカードゲームです。  
